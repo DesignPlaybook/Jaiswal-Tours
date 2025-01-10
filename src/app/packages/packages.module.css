@@ -1,0 +1,19 @@
+/* src/app/packages/packages.module.css */
+.packagesContainer {
+    padding: 20px;
+}
+
+.packages {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.packageCard {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+    width: 300px;
+}

@@ -1,0 +1,41 @@
+/* src/app/global.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+.homepage {
+  text-align: center;
+  padding: 50px;
+}
+
+.homepage nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.homepage nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+
+/* Navigation styles */
+
+header {
+  background-color: #0070f3;
+  color: white;
+  padding: 10px 20px;
+}
+
+header nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}

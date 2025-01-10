@@ -1,0 +1,13 @@
+/* src/app/about/about.module.css */
+.aboutContainer {
+    padding: 20px;
+    background-color: #fff;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.aboutContainer h1 {
+    text-align: center;
+}
